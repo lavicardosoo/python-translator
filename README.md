@@ -13,7 +13,7 @@ Um tradutor simples e estiloso criado com Python, usando **Kivy** para a interfa
 
 - [Python 3.x](https://www.python.org/)
 - [Kivy](https://kivy.org/)
-- [`translate`](https://pypi.org/project/translate/) (ou a biblioteca `translator` que você usou)
+- [translate](https://pypi.org/project/translate/).
 
 ## 📦 Instalação
 
