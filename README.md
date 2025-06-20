@@ -60,5 +60,3 @@ A interface será aberta com campos para digitação, seleção de idioma e exib
 - Suporte a mais idiomas
 - Reconhecimento de idioma automático
 - Tradução por voz
-
-## 🧁 Feito com carinho por Lavi 💜
